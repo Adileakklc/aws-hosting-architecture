@@ -19,11 +19,13 @@ Tasarım kapsamında:
 
 ```text
 aws-hosting-architecture/
- ├── README.md
+ ├── cost/
+ │   └── calculator-link.txt
  ├── docs/
  │   └── aws-mimari.pdf
  ├── architecture/
- └── cost/
+ │   └── awsproje.drawio.png
+ └── README.md
 ```
 
 ## 📄 Dokümanlar
