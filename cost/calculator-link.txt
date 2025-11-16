@@ -1,0 +1,2 @@
+AWS Calculator maliyet hesabı detayları : 
+https://calculator.aws/#/estimate?id=1ea76e2a861ba45d5cfc847cb9c276552cc5c9de
